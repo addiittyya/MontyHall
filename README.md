@@ -15,4 +15,4 @@ MontyHall_100doors.py -
   - Make changes in Line 37 for the number of iterations you want to simulate for this.
 
 MontyHall_results.xlsx -
-  - Share the results I tracked for the simulation of Original Monty Hall problem.
+  - Shared the results I tracked for the simulation of Original Monty Hall problem.
